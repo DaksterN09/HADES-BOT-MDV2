@@ -11,9 +11,9 @@ global.owner = [
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['523532470551'] 
+global.mods = [] 
 global.prems = ['523532470551'], 
-global.prems = ['523532470551'],
+global.prems = ['51934299838'],
 global.APIs = { // API Prefix.
   
 //⊱ ━━━━━.⋅ name: 'https://website' ⋅.━━━━ ⊰
