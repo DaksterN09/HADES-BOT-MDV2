@@ -11,7 +11,7 @@ global.owner = [
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = [] 
+global.mods = ['523532470551'] 
 global.prems = ['523532470551'], 
 global.prems = ['523532470551'],
 global.APIs = { // API Prefix.
@@ -71,7 +71,7 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
-global.author = '𓈃ּ ៹🍏𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
+global.author = '𓈃ּ ៹🍏𝙾𝙵𝙲 Deyner𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
