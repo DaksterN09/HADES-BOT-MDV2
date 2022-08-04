@@ -6,14 +6,14 @@ import { fileURLToPath } from 'url'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
   ['523532470551', '𝙾𝙵𝙲 Deyner', true],
-  ['523532470551'],
- 
+  ['51957397953'],
+  ['51934299838'],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['523532470551'],
+global.mods = ['51934299838'],
 global.prems = ['523532470551'], 
-global.prems = ['523532470551'],
+global.prems = ['51957397953'],
 global.APIs = { // API Prefix.
   
 //⊱ ━━━━━.⋅ name: 'https://website' ⋅.━━━━ ⊰
