@@ -5,18 +5,14 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['523532470551'] Ofc Deyner true 
-  ['51934299838'],
-  ['523532470551'],
-  ['523532470551'],
-  ['523532470551'],
-]
+  ['523532470551'] 
+] ['51934299838']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['523532470551'],
+global.mods = ['51934299838'],
 global.prems = ['523532470551'], 
-global.prems = ['523532470551'],
+global.prems = [''],
 global.APIs = { // API Prefix.
   
 //⊱ ━━━━━.⋅ name: 'https://website' ⋅.━━━━ ⊰
